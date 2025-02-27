@@ -7,7 +7,7 @@ export class AppService {
   }
 
   getTest(): string{
-    return 'Amirat Abdelkrim'
+    return 'Amirat *** Abdelkrim'
   }
 
   getCalcul(): number{ 
